@@ -10,5 +10,6 @@ both are targeting multi .NET platforms.
 2. run publish.bat to create and publish the nuget packages
 
 Nugets are available here:
+
 https://www.nuget.org/packages/Aleph1.Oracle.DataAccess.AllFrameworks.x86/
 https://www.nuget.org/packages/Aleph1.Oracle.DataAccess.AllFrameworks.x64/
