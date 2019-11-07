@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Aleph1.Oracle.DataAccess.AllFrameworks.x64</id>
-    <version>122.1.0</version>
+    <version>122.19.1</version>
     <authors>Oracle</authors>
     <owners>Oracle</owners>
     <licenseUrl>https://raw.githubusercontent.com/avrahamcool/Aleph1.Oracle.DataAccess.AllFrameworks/master/LICENSE</licenseUrl>
@@ -11,11 +11,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This NuGet package contains Oracle.DataAccess.dll (x64) needed to compile a project that uses Oracle's ODP.NET Library - for NET 2.0 and NET 4.0. Oracle will still need to be installed on the production or development machine in order to connect to Oracle.</description>
     <copyright>Copyright 2018</copyright>
-    <tags>Oracle DataAccess ODP NET 2.122.1.0 x64</tags>
+    <tags>Oracle DataAccess ODP NET 2.122.19.1 x64</tags>
   </metadata>
   
   <files>
-	<file src="122.1.0\x64\2\Oracle.DataAccess.dll" target="lib\net20" />
-	<file src="122.1.0\x64\4\Oracle.DataAccess.dll" target="lib\net40" />
+	<file src="122.19.1\x64\2\Oracle.DataAccess.dll" target="lib\net20" />
+	<file src="122.19.1\x64\4\Oracle.DataAccess.dll" target="lib\net40" />
   </files>
 </package>
